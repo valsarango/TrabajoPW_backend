@@ -14,4 +14,4 @@ const sequelize = new Sequelize(database, username, password, {
     operatorAliases: false
 })
 
-export default sequelize; 
+export default sequelize;
